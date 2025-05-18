@@ -1,20 +1,63 @@
 # Professional Certifications & Training Portfolio
 
+## Table of Contents
+
+- [Overview](#overview)
+- [Data & Analytics](#data--analytics)
+  - [Data Engineering](#data-engineering)
+  - [Data Analysis](#data-analysis)
+  - [Business Intelligence](#business-intelligence)
+  - [Machine Learning](#machine-learning)
+- [Business & Project Management](#business--project-management)
+  - [Project Management](#project-management)
+  - [Product Management](#product-management)
+- [Software Development & Quality Assurance](#software-development--quality-assurance)
+  - [Programming Fundamentals](#programming-fundamentals)
+  - [Front-End Development](#front-end-development)
+  - [Business Analysis & QA](#business-analysis--qa)
+- [Digital Marketing & Analytics](#digital-marketing--analytics)
+  - [Digital Marketing](#digital-marketing)
+  - [Full Stack Digital Marketing](#full-stack-digital-marketing)
+- [Portfolio & Additional Resources](#portfolio--additional-resources)
+
+# Professional Certifications & Training Portfolio
+
 ## Overview
 
 A comprehensive collection of professional certifications and training in data engineering, business analysis, project management, and software development.
+
+## Certification Summary (Sorted by Date)
+
+| Certification Name                             | Issuing Organization                                                   | Date Obtained | Verification                                                                                |
+| ---------------------------------------------- | ---------------------------------------------------------------------- | ------------- | ------------------------------------------------------------------------------------------- |
+| IT Front End in Banking Industry               | Digital Talent Scholarship Thematic Academy                            | 2021          |                                                                                             |
+| Data Analyst Training                          | DQlab                                                                  | 2022          |                                                                                             |
+| Business Intelligence Intensive Bootcamp       | MySkill.id                                                             | 2022          |                                                                                             |
+| Machine Learning Bootcamp                      | Dicoding (Ministry of Communication and Information)                   | 2022          | [View Certificate](./files/machine-learning/machine-learning-cert-2023.pdf)                 |
+| Project Management Training                    | Belajarlagi                                                            | 2023          | [View Certificate](./files/business/belajarlagi-project-management-2023.pdf)                |
+| Product Management Program                     | MySkill                                                                | 2023          |                                                                                             |
+| Business Analyst and Quality Assurance Program | Digital Talent Scholarships Fresh Graduate Academy & Metrodata Academy | 2023          | [View Certificate](./files/business/metrodata-business-analyst-qa-2023.pdf)                 |
+| Fresh Graduate Academy Digital Marketing       | Fresh Graduate Academy                                                 | 2023          | [View Certificate](./files/marketing/fga-digital-marketing-2023.pdf)                        |
+| Full Stack Digital Marketing Certificate       |                                                                        | 2023          | [View Certificate](./files/marketing/fullstack-digital-marketing-2023.pdf)                  |
+| Fast Track Data Engineer Scholarship           | Digital Skola                                                          | Jul 2024      | [View Certificate](./files/data-engineering/uncategorized-data-engineering-cert.jpeg)       |
+| Introduction to Programming                    | Kaggle                                                                 | 2025-05-18    | [View Certificate](https://www.kaggle.com/learn/certification/nivanrs/intro-to-programming) |
 
 ## Data & Analytics
 
 ### Data Engineering
 
-- Data Engineering Program
+- Fast Track Data Engineer Scholarship
+
   - Issuing Organization: Digital Skola
-  - Date Obtained: 2024
+  - Date Obtained: Jul 2024
+  - Credential ID: 003/BC/GRD/FTDE1/VII/2024
   - Key Skills:
+
     - Data pipeline development
     - ETL processes
     - Data warehouse management
+
+  - Verification: [View Certificate](./files/data-engineering/uncategorized-data-engineering-cert.jpeg)
 
 ### Data Analysis
 
@@ -41,12 +84,16 @@ A comprehensive collection of professional certifications and training in data e
 ### Machine Learning
 
 - Machine Learning Bootcamp
+
   - Issuing Organization: Dicoding (Ministry of Communication and Information)
   - Date Obtained: 2022
   - Key Skills:
+
     - Machine learning principles
     - Model development
     - Practical applications
+
+  - Verification: [View Certificate](./files/machine-learning/machine-learning-cert-2023.pdf)
 
 ## Business & Project Management
 
@@ -56,7 +103,7 @@ A comprehensive collection of professional certifications and training in data e
   - Issuing Organization: Belajarlagi
   - Date Obtained: 2023
   - Certificate ID: BLPMC3-2023111
-  - Verification: [View Certificate](files/CERTIF - BLPMC3-2023111 Nivan Ramadhan Sugiantoro.pdf)
+  - Verification: [View Certificate](./files/business/belajarlagi-project-management-2023.pdf)
   - Key Skills:
     - Project planning
     - Project charter creation
@@ -113,7 +160,7 @@ A comprehensive collection of professional certifications and training in data e
 - Business Analyst and Quality Assurance Program
   - Issuing Organization: Digital Talent Scholarships Fresh Graduate Academy & Metrodata Academy
   - Date Obtained: 2023
-  - Verification: [View Certificate](files/Sertifikat_Nivan Ramadhan Sugiantoro_Metrodata Camp Business Analyst & Quality Assurance.pdf)
+  - Verification: [View Certificate](./files/business/metrodata-business-analyst-qa-2023.pdf)
   - Key Skills:
     - Business analysis
     - Quality assurance
@@ -126,7 +173,7 @@ A comprehensive collection of professional certifications and training in data e
 
 - Fresh Graduate Academy Digital Marketing
   - Issuing Organization: Fresh Graduate Academy
-  - Verification: [View Certificate](files/Fresh Graduate Academy_Cert_Nivan Ramadhan Sugiantoro.pdf)
+  - Verification: [View Certificate](./files/marketing/fga-digital-marketing-2023.pdf)
   - Key Skills:
     - Digital marketing strategies
     - Marketing analytics
@@ -136,7 +183,7 @@ A comprehensive collection of professional certifications and training in data e
 ### Full Stack Digital Marketing
 
 - Full Stack Digital Marketing Certificate
-  - Verification: [View Certificate](files/nivan-ramadhan-sugiantoro-certificate-achievements-facfsdm23.pdf)
+  - Verification: [View Certificate](./files/marketing/fullstack-digital-marketing-2023.pdf)
   - Key Skills:
     - Digital marketing strategy
     - Content marketing
