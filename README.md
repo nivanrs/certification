@@ -30,17 +30,17 @@ A comprehensive collection of professional certifications and training in data e
 
 | Certification Name                             | Issuing Organization                                                   | Date Obtained | Verification                                                                                |
 | ---------------------------------------------- | ---------------------------------------------------------------------- | ------------- | ------------------------------------------------------------------------------------------- |
-| IT Front End in Banking Industry               | Digital Talent Scholarship Thematic Academy                            | 2021          |                                                                                             |
-| Data Analyst Training                          | DQlab                                                                  | 2022          |                                                                                             |
-| Business Intelligence Intensive Bootcamp       | MySkill.id                                                             | 2022          |                                                                                             |
-| Machine Learning Bootcamp                      | Dicoding (Ministry of Communication and Information)                   | 2022          | [View Certificate](./files/machine-learning/machine-learning-cert-2023.pdf)                 |
+| Introduction to Programming                    | Kaggle                                                                 | 2025-05-18    | [View Certificate](https://www.kaggle.com/learn/certification/nivanrs/intro-to-programming) |
+| Fast Track Data Engineer Scholarship           | Digital Skola                                                          | Jul 2024      | [View Certificate](./files/data-engineering/uncategorized-data-engineering-cert.jpeg)       |
 | Project Management Training                    | Belajarlagi                                                            | 2023          | [View Certificate](./files/business/belajarlagi-project-management-2023.pdf)                |
 | Product Management Program                     | MySkill                                                                | 2023          |                                                                                             |
 | Business Analyst and Quality Assurance Program | Digital Talent Scholarships Fresh Graduate Academy & Metrodata Academy | 2023          | [View Certificate](./files/business/metrodata-business-analyst-qa-2023.pdf)                 |
 | Fresh Graduate Academy Digital Marketing       | Fresh Graduate Academy                                                 | 2023          | [View Certificate](./files/marketing/fga-digital-marketing-2023.pdf)                        |
 | Full Stack Digital Marketing Certificate       |                                                                        | 2023          | [View Certificate](./files/marketing/fullstack-digital-marketing-2023.pdf)                  |
-| Fast Track Data Engineer Scholarship           | Digital Skola                                                          | Jul 2024      | [View Certificate](./files/data-engineering/uncategorized-data-engineering-cert.jpeg)       |
-| Introduction to Programming                    | Kaggle                                                                 | 2025-05-18    | [View Certificate](https://www.kaggle.com/learn/certification/nivanrs/intro-to-programming) |
+| Data Analyst Training                          | DQlab                                                                  | 2022          |                                                                                             |
+| Business Intelligence Intensive Bootcamp       | MySkill.id                                                             | 2022          |                                                                                             |
+| Machine Learning Bootcamp                      | Dicoding (Ministry of Communication and Information)                   | 2022          | [View Certificate](./files/machine-learning/machine-learning-cert-2023.pdf)                 |
+| IT Front End in Banking Industry               | Digital Talent Scholarship Thematic Academy                            | 2021          |                                                                                             |
 
 ## Data & Analytics
 
